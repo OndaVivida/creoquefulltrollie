@@ -1,0 +1,15 @@
+.principal {
+    text-align: center;
+}
+.color-rojo {
+    color: red;
+}
+.color-blanco {
+    color: #cccccc;
+}
+.t-grande {
+    font-size: 20px;
+}
+body {
+    background-color: #2a2a2a;
+}
