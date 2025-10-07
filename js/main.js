@@ -19,7 +19,7 @@ function entrada(){
 const procesar = numeros => numeros.num1 + numeros.num2
 const salida = salida => console.log(salida)
 
-//salida(procesar(entrada())) // aparentemente esta naziada que se me ocurrió primero funciona
+salida(procesar(entrada())) // aparentemente esta naziada que se me ocurrió primero funciona
 
 // igual hice uno de una forma mas "normal" o lo "normal" es lo primero, no c
 // let variable = entrada()
